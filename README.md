@@ -1,5 +1,25 @@
-# Lucid-3d-Test
-Game Engine Toy Project
-2011-2013
+# LUCID-3D-Legacy
 
-I learned a lot about programming from this project including multithreading, design patterns, data structures, object oriented, entity-hierarchy, and event driving programming, user interfacing, OpenGL, video card features, data buffering, resource/memory management, file parsing, and differences between languages such as Java, C++, and C#. In order to learn programming on my own beyond the Java programming classes I attended in high school and college, I started working on a video game engine. I wanted to make a suite of user friendly tools that my friends without programming knowledge but more creativity than myself could use to create video games together. I decided to use Java for the project as that was what I was most familiar with. As I learned more I started the project all over again many times because I knew I could design it better. I had too much difficulty trying to make a multiple document interface with a 3D context so I dropped the project to wait for technology to evolve (Especially WebGL). 
+**Game Engine Toy Project (2011–2013)**
+
+LUCID 3D was a personal project aimed at learning advanced programming concepts by building a video game engine. The goal was to create a suite of user-friendly tools enabling creative friends without programming experience to design games collaboratively.
+
+## Learning Focus
+
+This project helped me explore and practice:
+
+- Multithreading, event-driven programming, and design patterns  
+- Data structures, memory/resource management, and file parsing  
+- Object-oriented and entity-hierarchy design  
+- User interfacing and OpenGL programming  
+
+## Project Details
+
+- **Language:** Java  
+- **Purpose:** Educational; building a 3D game engine and tools for collaboration  
+- **Iterations:** The engine was restarted multiple times as design improved  
+- **Challenges:** Difficulty implementing a multiple-document interface with a 3D context led to pausing the project until technology (e.g., WebGL) became more practical  
+
+## Status
+
+This project is discontinued as a working engine. It serves as a historical snapshot of my early learning in systems design, graphics programming, and engine architecture.
